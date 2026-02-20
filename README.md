@@ -26,9 +26,9 @@ I'm a passionate front-end developer focused on building modern, responsive, and
 
 **Core**
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
+1. HTML5
+2. CSS3
+3. JavaScript (ES6+)
 
 **Frontend**
 
