@@ -78,6 +78,7 @@ I'm a passionate front-end developer focused on building modern, responsive, and
 ## 📫 Contact
 
 Feel free to connect or collaborate!
+💬 Telegram: [Message me](https://t.me/maryam_ahmadabadi)
 
 ---
 
