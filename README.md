@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm a Front-End Developer
 
-I'm a passionate front-end developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive experiences and continuously improving my skills.
+I'm a passionate front-end developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive experiences and continuously improving my skills <br/>
+i'm currently learning TypeScript 
 
 ---
 
 ## 🚀 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 **Core**
 
@@ -83,3 +86,5 @@ Feel free to connect or collaborate!
 ---
 
 ⭐ *Thanks for visiting my profile!*
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
