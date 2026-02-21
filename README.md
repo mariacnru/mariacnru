@@ -21,53 +21,29 @@ Here are some ideas to get you started:
 I'm a passionate front-end developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive experiences and continuously improving my skills <br/>
 i'm currently learning TypeScript 
 
----
-
 ## 🚀 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 **Core**
 
-1. HTML5
-2. CSS3
-3. JavaScript (ES6+)
+HTML5 🟠 CSS3 🟣 JavaScript (ES6+) 🟡
 
-**Frontend**
+**Frontend :**
 
-* React.js
-* React Router
-* SPA Architecture
-* REST API Integration
+React.js 🔵 React Router ⚫ SPA Architecture ✨ REST API Integration 🎈
 
-**Styling**
+**Styling :**
 
-* Tailwind CSS
+Tailwind CSS 🔵
 
-**Libraries & Tools**
+**Libraries & Tools :**
 
-* Zod (validation)
-* Recharts (data visualization)
-* VS Code
-* Git & GitHub
-
----
-
-## 🌱 Currently Improving
-
-* Advanced React patterns
-* Performance optimization
-* Scalable frontend architecture
-
----
+Zod (validation) 🔵 Recharts (data visualization) 🔵 VS Code 🔵 Git & GitHub 🟣
 
 ## 🎯 Goals
 
 * Build production-ready web applications
 * Create clean and maintainable UI systems
 * Grow as a professional front-end engineer
-
----
 
 ## ✨ What I Care About
 
@@ -76,12 +52,11 @@ i'm currently learning TypeScript
 ✔ Performance
 ✔ Learning continuously
 
----
-
 ## 📫 Contact
 
-Feel free to connect or collaborate!
-💬 reach me on [Telegram](https://t.me/maryam_ahmadabadi)
+Feel free to connect or collaborate! <br/>
+💬 reach me on [Telegram](https://t.me/maryam_ahmadabadi) <br/>
+📫 [Email](mailto:mariacnru@gmail.com) me
 
 ---
 
