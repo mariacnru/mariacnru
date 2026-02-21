@@ -23,7 +23,7 @@ i'm currently learning TypeScript
 
 ## 🚀 Tech Stack
 
-**Core**
+**Core :**
 
 HTML5 🟠 CSS3 🟣 JavaScript (ES6+) 🟡
 
