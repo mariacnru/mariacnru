@@ -39,7 +39,7 @@ const data = {
       },
 
       validation: ["Zod"],
-      dataVisualization: ["Data Visualization"],
+      dataVisualization: ["Recharts"],
 
       tools: ["Git", "GitHub", "VS Code", "Postman"],
       databases: ["Firebase"],
