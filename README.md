@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## 👋 Hi, I'm a Front-End Developer
 
 I'm a passionate front-end developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive experiences and continuously improving my skills <br/>
@@ -23,21 +22,25 @@ i'm currently learning TypeScript
 
 ## 🚀 Tech Stack
 
-**Core :**
-
-HTML5 🟠 CSS3 🟣 JavaScript (ES6+) 🟡
-
-**Frontend :**
-
-React.js 🔵 React Router ⚫ SPA Architecture ✨ REST API Integration 🎈
-
-**Styling :**
-
-Tailwind CSS 🔵
-
-**Libraries & Tools :**
-
-Zod (validation) 🔵 Recharts (data visualization) 🔵 VS Code 🔵 Git & GitHub 🟣
+```js
+  const data = {
+    status: 202,
+    personalData: {
+      fullName: "Maryam Ahmadabadi",
+      birthDate: "july 17 2005",
+      location: "Iran , Tehran",
+      TechStack: {
+        core: "HTML5 , CSS3 , JavaScript(ES6)",
+        frameworks: "React.js , TailwindCss",
+        other: {
+          datavisualization: "data visualization",
+          Validation: "Zod",
+        },
+        tools: "Git&GitHub , vsCode",
+      },
+    },
+  };
+```
 
 ## 🎯 Goals
 
