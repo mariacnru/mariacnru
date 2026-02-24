@@ -23,23 +23,34 @@ i'm currently learning TypeScript
 ## 🚀 Tech Stack
 
 ```js
-  const data = {
-    status: 202,
-    personalData: {
-      fullName: "Maryam Ahmadabadi",
-      birthDate: "july 17 2005",
-      location: "Iran , Tehran",
-      TechStack: {
-        core: "HTML5 , CSS3 , JavaScript(ES6)",
-        frameworks: "React.js , TailwindCss",
-        other: {
-          datavisualization: "data visualization",
-          Validation: "Zod",
-        },
-        tools: "Git&GitHub , vsCode",
+const data = {
+  status: 202,
+  personalData: {
+    fullName: "Maryam Ahmadabadi",
+    birthDate: "july 17 2005",
+    location: "Iran , Tehran",
+
+    TechStack: {
+      core: ["HTML5", "CSS3", "JavaScript (ES6)"],
+      frameworks: ["React.js", "TailwindCss"],
+
+      api: {
+        architecture: ["REST"],
+        httpMethods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
+        dataFormat: ["JSON"],
+        clientSide: ["fetch"],
       },
+
+      other: {
+        datavisualization: ["data visualization"],
+        Validation: ["Zod"],
+      },
+
+      tools: ["Git", "GitHub", "VSCode", "Postman"],
+      databases: ["firebase"],
     },
-  };
+  },
+};
 ```
 
 ## 🎯 Goals
