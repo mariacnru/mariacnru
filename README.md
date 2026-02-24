@@ -1,24 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Maryam Ahmadabadi
 
-<!--
-**mariacnru/mariacnru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer
 
-Here are some ideas to get you started:
+I'm a passionate Front-End Developer focused on building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into interactive experiences and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning **TypeScript**
 
-## 👋 Hi, I'm a Front-End Developer
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-I'm a passionate front-end developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive experiences and continuously improving my skills <br/>
-i'm currently learning TypeScript 
+
+
+---
 
 ## 🚀 Tech Stack
 
@@ -27,12 +24,12 @@ const data = {
   status: 202,
   personalData: {
     fullName: "Maryam Ahmadabadi",
-    birthDate: "july 17 2005",
-    location: "Iran , Tehran",
+    birthDate: "July 17, 2005",
+    location: "Tehran, Iran",
 
-    TechStack: {
+    techStack: {
       core: ["HTML5", "CSS3", "JavaScript (ES6)"],
-      frameworks: ["React.js", "TailwindCss"],
+      frameworks: ["React.js", "Tailwind CSS"],
 
       api: {
         architecture: ["REST"],
@@ -41,17 +38,16 @@ const data = {
         clientSide: ["fetch"],
       },
 
-      other: {
-        datavisualization: ["data visualization"],
-        Validation: ["Zod"],
-      },
+      validation: ["Zod"],
+      dataVisualization: ["Data Visualization"],
 
-      tools: ["Git", "GitHub", "VSCode", "Postman"],
-      databases: ["firebase"],
+      tools: ["Git", "GitHub", "VS Code", "Postman"],
+      databases: ["Firebase"],
     },
   },
 };
 ```
+---
 
 ## 🎯 Goals
 
@@ -61,19 +57,9 @@ const data = {
 
 ## ✨ What I Care About
 
-✔ Clean code
-✔ Good UI/UX
+✔ Clean code ✔ Good UI/UX
 ✔ Performance
 ✔ Learning continuously
 
 ## 📫 Contact
-
-Feel free to connect or collaborate! <br/>
-💬 reach me on [Telegram](https://t.me/maryam_ahmadabadi) <br/>
-📫 [Email](mailto:mariacnru@gmail.com) me
-
----
-
-⭐ *Thanks for visiting my profile!*
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Feel free to connect or collaborate! <br/> 💬 reach me on [Telegram](https://t.me/maryam_ahmadabadi) <br/> 📫 [Email](mailto:mariacnru@gmail.com) me --- ⭐ *Thanks for visiting my profile!*
