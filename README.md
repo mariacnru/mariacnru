@@ -5,14 +5,22 @@
 I'm a passionate Front-End Developer focused on building modern, responsive, and user-friendly web applications.  
 I enjoy turning ideas into interactive experiences and continuously improving my skills.
 
-🌱 I’m currently learning **TypeScript**
+🌱 I’m currently learning **TypeScript** 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-orange)
+![Static Badge](https://img.shields.io/badge/CSS3-purple)
+![Static Badge](https://img.shields.io/badge/Javascript(ES6)-yellow)
+![Static Badge](https://img.shields.io/badge/React.js-blue)
+![Static Badge](https://img.shields.io/badge/TailwindCss-cyan)
+![Static Badge](https://img.shields.io/badge/React-Router-red)
 
+<!--
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
+-->
 
 
 ---
