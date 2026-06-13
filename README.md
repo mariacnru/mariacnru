@@ -40,6 +40,7 @@ const data = {
     techStack: {
       core: ["HTML5", "CSS3", "JavaScript (ES6)"],
       frameworks: ["React.js", "Tailwind CSS"],
+      Learning TypeScript
 
       api: {
         architecture: ["REST"],
@@ -49,7 +50,7 @@ const data = {
       },
 
       validation: ["Zod"],
-      dataVisualization: ["Recharts"],
+      dataVisualization: ["Recharts, apexcharts"],
 
       tools: ["Git", "GitHub", "VS Code", "Postman"],
       databases: ["Firebase"],
