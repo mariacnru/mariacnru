@@ -40,7 +40,7 @@ const data = {
     techStack: {
       core: ["HTML5", "CSS3", "JavaScript (ES6)"],
       frameworks: ["React.js", "Tailwind CSS"],
-      Learning TypeScript
+      learning: [TypeScript]
 
       api: {
         architecture: ["REST"],
