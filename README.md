@@ -38,9 +38,9 @@ const data = {
     location: "Tehran, Iran",
 
     techStack: {
-      core: ["HTML5", "CSS3", "JavaScript (ES6)"],
+      core: ["HTML5", "CSS3", "JavaScript (ES6), "TypeScript"],
       frameworks: ["React.js", "Tailwind CSS"],
-      learning: ["TypeScript"]
+      learning: ["Next.js"]
 
       api: {
         architecture: ["REST"],
