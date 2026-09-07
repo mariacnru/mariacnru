@@ -14,6 +14,7 @@ I enjoy turning ideas into interactive experiences and continuously improving my
 ![Static Badge](https://img.shields.io/badge/TailwindCss-cyan)
 ![Static Badge](https://img.shields.io/badge/React-Router-red)
 ![Static Badge](https://img.shields.io/badge/git-hub)
+![Static Badge](https://img.shields.io/badge/TypeScript-3178C6)
 
 
 <!--
